@@ -89,7 +89,7 @@ elif percentage >= 40:
     print(" with grade D", end ="")
 
 elif percentage < 40:
-    print(" and you arte fail ", end ="")
+    print(" and you are fail ", end ="")
 
 
 
